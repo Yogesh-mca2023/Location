@@ -1,10 +1,17 @@
 # Location
 
-**Description:** Your project appears to involve creating an interactive map using Mapbox GL JS. 
-The button in the overlay suggests that clicking it will trigger some animation or action related 
-to stops between RVS College and Gandhipuram on the map.
+**Description:**
 
-**Future improvements:** Instead of using a pre-defined array of bus stops, the bus could follow a real-time route, such as the route of a real bus. 
-This could be done by using a real-time bus tracking API to get the bus's current location and destination.
+This HTML document displays a map using Mapbox and a button to animate a marker's movement along predefined bus stops between Gandhipuram and Sulur.
 
-**Link:** https://yogesh-mca2023.github.io/Map/
+**How to run the code:**
+
+***Step1:*** Save the HTML file with .html extension.
+
+***Step2:*** Click the "Go Live" button.A new browser window will open, displaying map moving from one place to another place.
+
+**Future Enhancement:**
+
+1)Display real-time bus location data on the map for a more practical application.
+
+2)Add interactive features like bus stop information on click or route selection options.
